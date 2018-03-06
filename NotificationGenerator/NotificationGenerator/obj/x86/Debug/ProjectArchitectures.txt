@@ -1,0 +1,1 @@
+C:\Users\rmr10\OneDrive\Documents\GitHub\Universal-Notification-App\NotificationGenerator\NotificationGenerator\NotificationGenerator.csproj;x86
